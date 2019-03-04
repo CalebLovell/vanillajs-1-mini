@@ -29,3 +29,5 @@ function selectTheme(theme) {
         buttons[i].className = theme;
     }
 }
+
+selectTheme()
